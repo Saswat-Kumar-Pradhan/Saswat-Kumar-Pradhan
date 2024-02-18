@@ -1,5 +1,16 @@
 
-# Hello, I'm Saswat Kumar Pradhan 👋
+<div align="center">
+  <h1>Hello, I'm Saswat Kumar Pradhan</h1>
+</div>
+
+<div align="center">
+  <a href="mailto:your-email@example.com"><img src="https://static.vecteezy.com/system/resources/thumbnails/020/964/377/small_2x/gmail-mail-icon-for-web-design-free-png.png" alt="Email" style="width:40px;" title="Email"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" title="LinkedIn" style="width:40px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://your-portfolio-website.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Portfolio" title="Portfolio" style="width:40px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://your-portfolio-website.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" alt="Portfolio" title="Portfolio" style="width:40px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://your-portfolio-website.com"><img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="Portfolio" title="Portfolio" style="width:40px"></a>
+</div>
+<br><br>
 
 I'm a passionate Web Developer and Python Developer.
 
@@ -15,7 +26,9 @@ I'm a passionate Web Developer and Python Developer.
 
 🚀 I love building sleek and efficient web applications.
 
-### Skills
+<div align="center">
+  <h3>Skills</h3>
+</div>
 
 <!-- Skill Badges -->
 <div align="center">
@@ -34,14 +47,16 @@ I'm a passionate Web Developer and Python Developer.
 <br><br><br><br>
 
 
+<div align="center">
+  <h3>Github Stats</h3>
+</div>
+
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saswat-Kumar-Pradhan&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saswat-Kumar-Pradhan&theme=radical) 
 
 
-| GitHub Stats                                         | Top Languages                                         |
-|------------------------------------------------------|-------------------------------------------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saswat-Kumar-Pradhan&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saswat-Kumar-Pradhan&theme=radical) |
-
-
-### My Projects
+<div align="center">
+  <h3>My Projects</h3>
+</div>
 
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Saswat-Kumar-Pradhan&repo=DIGITAL-CLOCK&theme=radical)](https://github.com/Saswat-Kumar-Pradhan/DIGITAL-CLOCK)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Saswat-Kumar-Pradhan&repo=.BLOG&theme=radical)](https://github.com/Saswat-Kumar-Pradhan/.BLOG)
