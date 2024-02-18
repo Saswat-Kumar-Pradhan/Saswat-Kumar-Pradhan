@@ -16,10 +16,9 @@
 </div>
 <br><br>
 
----
-
-### I'm a passionate Python Full-Stack Developer.
-
+<div align="center">
+  <h3>I'm a passionate Python Full-Stack Developer.</h3>
+</div>
 
 ---
 
@@ -29,13 +28,11 @@
 - 👨‍💻 I'm proficient in HTML, CSS, JavaScript, Python, and Java.
 - 🚀 I love building sleek and efficient web applications.
 
----
 
-
+<br><br>
 <div align="center">
   <h3>Skills</h3>
 </div>
-
 <!-- Skill Badges -->
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" title="HTML" style="height: 40px;">
@@ -58,7 +55,7 @@
 
 
 
-<br><br><br><br>
+<br><br><br>
 
 
 <div align="center">
@@ -67,7 +64,7 @@
 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saswat-Kumar-Pradhan&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saswat-Kumar-Pradhan&theme=radical) 
 
-
+<br><br>
 <div align="center">
   <h3>My Projects</h3>
 </div>
