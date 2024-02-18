@@ -19,14 +19,17 @@ I'm a passionate Web Developer and Python Developer.
 
 <!-- Skill Badges -->
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" title="HTML" style="margin-right: 10px; height: 50px;">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" title="CSS" style="margin-right: 10px; height: 50px;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" style="margin-right: 10px; height: 50px;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" style="margin-right: 10px; height: 50px;">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" title="FastAPI" style="margin-right: 10px; height: 50px;">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java" style="margin-right: 10px; height: 50px;">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" title="Spring Boot" style="margin-right: 10px; height: 50px;">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" title="HTML" style="height: 40px;">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" title="CSS" style="height: 40px;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" style="height: 40px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" style="height: 40px;">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" title="FastAPI" style="height: 40px;">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java" style="height: 40px;">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" title="Spring Boot" style="height: 40px;">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" title="C#" style="height: 40px;">
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" title=".NET" style="height: 40px;">
 </div>
+
 
 <br><br><br><br>
 
@@ -42,4 +45,6 @@ I'm a passionate Web Developer and Python Developer.
 
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Saswat-Kumar-Pradhan&repo=DIGITAL-CLOCK&theme=radical)](https://github.com/Saswat-Kumar-Pradhan/DIGITAL-CLOCK)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Saswat-Kumar-Pradhan&repo=.BLOG&theme=radical)](https://github.com/Saswat-Kumar-Pradhan/.BLOG)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Saswat-Kumar-Pradhan&repo=ASIDE-SIMILAR-GAME&theme=radical)](https://github.com/Saswat-Kumar-Pradhan/ASIDE-SIMILAR-GAME)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Saswat-Kumar-Pradhan&repo=APP-DOWNLOAD-TASK&theme=radical)](https://github.com/Saswat-Kumar-Pradhan/APP-DOWNLOAD-TASK)
 
