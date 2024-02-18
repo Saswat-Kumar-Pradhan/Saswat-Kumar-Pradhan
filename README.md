@@ -1,5 +1,5 @@
 
-# Hello, I'm [Saswat Kumar Pradhan] 👋
+# Hello, I'm Saswat Kumar Pradhan 👋
 
 I'm a passionate Web Developer and Python Developer.
 
@@ -17,16 +17,20 @@ I'm a passionate Web Developer and Python Developer.
 
 ### Skills
 
-<!-- Badges for Skills -->
 <!-- Skill Badges -->
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML-Expert-orange?style=for-the-badge&logo=html5" alt="HTML" title="HTML">
-  <img src="https://img.shields.io/badge/CSS-Expert-blue?style=for-the-badge&logo=css3" alt="CSS" title="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript" alt="JavaScript" title="JavaScript">
-  <img src="https://img.shields.io/badge/Python-Expert-green?style=for-the-badge&logo=python" alt="Python" title="Python">
-  <img src="https://img.shields.io/badge/React-Intermediate-blueviolet?style=for-the-badge&logo=react" alt="React" title="React">
-  <img src="https://img.shields.io/badge/Django-Intermediate-green?style=for-the-badge&logo=django" alt="Django" title="Django">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" title="HTML" style="margin-right: 10px; height: 50px;">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" title="CSS" style="margin-right: 10px; height: 50px;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" style="margin-right: 10px; height: 50px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" style="margin-right: 10px; height: 50px;">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" title="FastAPI" style="margin-right: 10px; height: 50px;">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java" style="margin-right: 10px; height: 50px;">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" title="Spring Boot" style="margin-right: 10px; height: 50px;">
 </div>
+
+<br><br><br><br>
+
+
 
 
 | GitHub Stats                                         | Top Languages                                         |
