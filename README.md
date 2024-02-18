@@ -29,15 +29,10 @@ I'm a passionate Web Developer and Python Developer.
 </div>
 
 
-### GitHub Stats
+| GitHub Stats                                         | Top Languages                                         |
+|------------------------------------------------------|-------------------------------------------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saswat-Kumar-Pradhan&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saswat-Kumar-Pradhan&theme=radical) |
 
-<!-- GitHub Stats -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Saswat-Kumar-Pradhan&show_icons=true&theme=radical)
-
-### Top Languages
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saswat-Kumar-Pradhan&theme=radical)
 
 ### My Projects
 
