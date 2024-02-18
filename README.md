@@ -16,15 +16,21 @@
 </div>
 <br><br>
 
-I'm a passionate Python Developer and Web Developer.
+---
 
-🌐 Visit my portfolio website: [saswatkumar.com](https://saswatkumar.com)
+### I'm a passionate Python Full-Stack Developer.
 
-🌱 I’m currently learning react js and angular js
 
-👨‍💻 I'm proficient in HTML, CSS, JavaScript, Python, and more!
+---
 
-🚀 I love building sleek and efficient web applications.
+
+- 🌐 Visit my portfolio website: [saswatkumar.com](https://saswatkumar.com)
+- 🌱 I’m currently learning React.js and Angular.js
+- 👨‍💻 I'm proficient in HTML, CSS, JavaScript, Python, and Java.
+- 🚀 I love building sleek and efficient web applications.
+
+---
+
 
 <div align="center">
   <h3>Skills</h3>
