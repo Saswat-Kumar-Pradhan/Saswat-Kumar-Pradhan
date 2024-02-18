@@ -9,12 +9,16 @@
   <a href="http://www.instagram.com/saswatkumar059"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Portfolio" title="Portfolio" style="width:40px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/Balimunda.Bhadrak.756164"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" alt="Portfolio" title="Portfolio" style="width:40px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/saswatkumar059?s=09"><img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="Portfolio" title="Portfolio" style="width:40px"></a>
+</div><br>
+<div align="center">  
+  
+  [saswatkumar.com](https://saswatkumar.com)
 </div>
 <br><br>
 
 I'm a passionate Python Developer and Web Developer.
 
-🌐 Visit my portfolio website: [saswatcreation.netlify.app](https://saswatcreation.netlify.app)
+🌐 Visit my portfolio website: [saswatkumar.com](https://saswatkumar.com)
 
 🌱 I’m currently learning react js and angular js
 
@@ -39,6 +43,7 @@ I'm a passionate Python Developer and Web Developer.
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" title="C#" style="height: 40px;">
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" title=".NET" style="height: 40px;">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" title="Django" style="height: 40px;">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker" style="height: 40px;">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" style="height: 40px;">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" style="height: 40px;">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git" style="height: 40px;">
